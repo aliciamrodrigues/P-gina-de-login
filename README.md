@@ -1,13 +1,20 @@
+# Página de Login 
+
+<p><img align="right" src="https://user-images.githubusercontent.com/126528085/233807326-a3d84afb-8d08-4057-bdcc-9c7ede8fcdf2.png" width="621" height="408"/></p>
 
 
- Página de Login 
 
-Projeto simples de uma página de login.
+<p> Projeto simples de uma página de login. </p>
+<hr>
 
-   Principais tecnologias utilizadas 
+## Principais tecnologias utilizadas 
 
-Python
-Biblioteca TkInter para interface gráfica.
+* Python
+* Biblioteca Tkinter para interface gráfica.
 
-<img src="file:///C:/Users/alici/OneDrive/Imagens/Capturas%20de%20tela/Captura%20de%20tela%202023-04-22%20175303.png" width="500" height="500"/>
+<hr>
+</body>
+
+
+
 
